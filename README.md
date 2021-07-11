@@ -1,2 +1,3 @@
-# The_sparks_foundation_projects
-The Sparks Foundation Projects
+The Sparks Foundation: Graduate Rotational Internship Program
+Task 1: Prediction using Supervised ML
+Predict the percentage of an student based on the no. of study hours
