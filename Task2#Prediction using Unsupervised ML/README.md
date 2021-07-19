@@ -8,4 +8,4 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 
 ## Author
 
-- [@nileshp05](https://github.com/nileshp05/The_sparks_foundation_projects_repository/tree/main/Task1%23Prediction%20usingSupervised%20ML)
+- [@nileshp05](https://github.com/nileshp05/The_sparks_foundation_projects_repository/tree/main/Task2%23Prediction%20using%20Unsupervised%20ML)
