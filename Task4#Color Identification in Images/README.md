@@ -9,6 +9,7 @@ Build an application called a 'Image Color Identifier' which describes the color
 ## Youtube Link
 [![youtube](https://img.shields.io/badge/YouTube-Link-red)](https://youtu.be/ehetZEF9XfA)
 
+## Applications' Result
 ![exp](https://user-images.githubusercontent.com/84073384/126140756-e2ba05ca-067f-41f2-9651-cdbb7347871d.gif)
 
 ## Author
