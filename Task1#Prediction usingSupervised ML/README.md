@@ -13,7 +13,7 @@ Our aim is to model and study the relationship.
 ## Example
 Student who studies for 9.25 hours is estimated to get a score of 92.14.
 
-## Authors
+## Author
 
 - [@nileshp05](https://github.com/nileshp05/The_sparks_foundation_projects_repository/tree/main/Task1%23Prediction%20usingSupervised%20ML)
 
