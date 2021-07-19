@@ -9,6 +9,8 @@ Build an application called a 'Image Color Identifier' which describes the color
 ## Youtube Link
 [![youtube](https://img.shields.io/badge/YouTube-Link-red)](https://youtu.be/ehetZEF9XfA)
 
+![Example](https://user-images.githubusercontent.com/84073384/126140084-4a5c8210-3aee-495c-97a1-8129c82ec853.mp4)
+
 ## Author
 
 - [@nileshp05](https://github.com/nileshp05/The_sparks_foundation_projects_repository/tree/main/Task4%23Color%20Identification%20in%20Images)
