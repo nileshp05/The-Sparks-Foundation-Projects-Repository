@@ -4,7 +4,8 @@
 #### Name: Nilesh Pendharkar
 #### Data Science & Business Analytics Intern at The Sparks Foundation
 
-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+The dataset is about the iris flower and its species, the data contains total five features where sepal length, sepal width, petal width, petal length are independent features and species is dependent and categorical feature of dataset.
 
 ## Author
 
