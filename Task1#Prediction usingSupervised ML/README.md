@@ -14,7 +14,7 @@ Our aim is to model and study the relationship.
 Student who studies for 9.25 hours is estimated to get a score of 92.14.
 
 ## Youtube Link
-[![youtube](https://img.shields.io/badge/YouTube-Link-red)](https://www.youtube.com/)
+[![youtube](https://img.shields.io/badge/YouTube-Link-red)](https://youtu.be/iaQesB1v5yQ)
 
 ## Author
 
