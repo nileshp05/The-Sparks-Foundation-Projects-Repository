@@ -3,7 +3,7 @@
 #### GRIPJULY21
 #### Name: Nilesh Pendharkar
 #### Data Science & Business Analytics Intern at The Sparks Foundation
-#### Internship domain function: Computer vision and Internet of things
+#### Another internship domain function: Computer vision and Internet of things
 Implement a real time face mask detector by using Tensorflow and OpenCV.
 
 ## Youtube Link
