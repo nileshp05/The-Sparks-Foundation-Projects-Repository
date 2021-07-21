@@ -1,7 +1,8 @@
-# Task 4: Color Identification in Images
+# Task 1: Color Identification in Images
 #### GRIPJULY21
 #### Name: Nilesh Pendharkar
 #### Data Science & Business Analytics Intern at The Sparks Foundation
+#### Another internship domain function: Computer vision and Internet of things
 
 Implement an image color detector which identifies all the colors in an image.
 Build an application called a 'Image Color Identifier' which describes the color name and other details in box at location of mouse pointer when user double clicks on image. For this purpose I have used a CSV file named as colors.csv which includes the dataset of color with color names and RGB values.
